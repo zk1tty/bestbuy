@@ -1,2 +1,2 @@
 # bestbuy
-Demo site ti implement Uniswap v4 HOOK
+The demo site to implement Uniswap v4 HOOK at EthGlobal NY 2023
